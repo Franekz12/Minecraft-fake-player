@@ -1,9 +1,9 @@
 {
-  "name": "minecraft-afk-bot",
+  "name": "minecraft-bot",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "mineflayer": "^4.15.0"
+    "mineflayer": "^4.14.0"
   },
   "scripts": {
     "start": "node index.js"
